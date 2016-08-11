@@ -1,6 +1,6 @@
 {
-  "name": "lang_detect",
-  "version": "1.0.0",
+  "name": "lang-detect",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
